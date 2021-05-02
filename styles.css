@@ -1,0 +1,63 @@
+/* Done by Carlos Amaral (2021/04/30) */
+
+body {
+    background-color: #808080;
+    text-align: center;
+}
+
+h1 {
+    margin: 30px;
+    font-family: 'Anton', sans-serif;
+    text-shadow: 5px 0 #232931;
+    font-size: 7rem;
+    color:
+}
+
+.container {
+    text-align: center;
+    width: 75%;
+    margin: auto;
+}
+
+.btn {
+    background-color: #7997;
+    display: block;
+    text-align: center;
+    margin: auto; 
+}
+
+
+/* Dices */
+
+.dicee {
+    margin-top: 30px;
+    text-align: center;
+    display: inline-block;
+}
+
+
+p {
+    font-family: 'Coda Caption', sans-serif;
+    font-size: 1.2rem;
+}
+
+/* Game Result */
+
+h2 {
+    margin-top: 4%;
+    font-family: 'Coda Caption', sans-serif;
+    font-size: 3rem;
+    background-color: red;
+    color: #ffff;
+    text-align: center;
+}
+
+
+/* Footer */
+.footer {
+    font-family: sans-serif;
+    margin-top: 5%;
+    text-align: center;
+    font-size: 96%;
+    color: #EEEEEE;
+}
